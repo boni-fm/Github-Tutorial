@@ -2,5 +2,6 @@
 A dummy repository for learning purposes
 
 ## Creator 
-**Bonifasius Mamerutama** 
-Informatics Student at Sanata Dharma University
+* **Bonifasius Mamerutama** 
+  Informatics Student at Sanata Dharma University
+* **Bambang**
